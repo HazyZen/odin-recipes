@@ -27,3 +27,17 @@ h1 {
     background-color: green;
     text-align: center;
 }
+
+/* Margin, Border, Padding*/
+/* . is for class, # is for id */
+.top-section{
+    margin-left: 200px;
+    border: brown 5px solid;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: teal;
+    font-size: 20px;
+    width: 500px;
+    height: auto;
+
+}
